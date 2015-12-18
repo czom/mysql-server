@@ -69,7 +69,7 @@ static double _wghts[11]=
   3.375000000000000,
   5.062500000000000,
   7.593750000000000};
-static double *wghts=_wghts+5; /* wghts[i] = 1.5**i */
+static double *wghts=_wghts+6; /* wghts[i] = 1.5**i */
 
 static double _nwghts[11]=
 {
